@@ -1,5 +1,5 @@
 # Facial Tracking Application
-This application utilizes PyQt6 and OpenCV to create a facial tracking system. It includes features such as taking photos, recording videos, and applying a mosaic effect to detected faces.
+This application utilizes **PyQt6** and **OpenCV** to create a facial tracking system. It includes features such as taking photos, recording videos, and applying a mosaic effect to detected faces.
 
 ## Features
 - Real-time video display: Stream video from your webcam in real-time.
@@ -11,6 +11,6 @@ This application utilizes PyQt6 and OpenCV to create a facial tracking system. I
 2. Install required libraries: Run the following command to install the necessary libraries:
 ` pip install PyQt6 opencv-python `
 ## Running the Application
-1. Save the script to a file, e.g., facial_tracking.py.
+1. Save the script to a file, e.g., faceRecognization.py.
 2. Run the script:
-` python facial_tracking.py `
+` python faceRecognization.py `
